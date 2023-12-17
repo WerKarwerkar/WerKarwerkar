@@ -30,7 +30,7 @@ Here are some of the projects I've completed this year:
 
 ## Fun Facts 🙃
 
-- I am not a geek or nerd 
+display: none
 
 Feel free to explore my repositories, and I'm open to collaboration and discussions. If you have any opportunities or just want to say hi, drop me an email.
 

@@ -9,12 +9,12 @@ I am actively seeking an internship in Frontend Development where I can apply my
 
 Here are some of the projects I've completed this year:
 
-- [Online Shop of Rainy Jackets](https://symphonious-chimera-772650.netlify.app)
-- [Interactive Community Museum](https://weronikaprojectsemester.netlify.app)
+- [Online Shop of Rainy Jackets](https://symphonious-chimera-772650.netlify.app) 
+- [Interactive Community Museum](https://weronikaprojectsemester.netlify.app) 
 - [Traveler Blog](https://lucent-seahorse-1fd175.netlify.app)
-- [AlleBids](https://harmonious-stardust-2e08de.netlify.app)
-- [Coccinelle](https://wercia-bejbe-app2.netlify.app)
-- [VistaVenue](https://vistavenue.netlify.app)
+- [AlleBids](https://harmonious-stardust-2e08de.netlify.app) 
+- [Coccinelle](https://wercia-bejbe-app2.netlify.app) 
+- [VistaVenue](https://vistavenue.netlify.app) 
 
 ## Skills
 

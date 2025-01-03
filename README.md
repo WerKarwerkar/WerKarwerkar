@@ -26,12 +26,5 @@ Here are some of the projects I've completed this year:
 - Tailwind
 - React
 
-## Let's Connect! 📫
-
-- [Email](mailto:weronika.k.karczmarczyk@gmail.com)
-- [GitHub](https://github.com/WerKarwerkar)
-- LinkedIn soon... :)
-
-
 Feel free to explore my repositories, and I'm open to collaboration and discussions. If you have any opportunities or just want to say hi, drop me an email.
 
